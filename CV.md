@@ -31,5 +31,5 @@ Personal Details
 - Fluent with R, SPSS, SAS, OX, STATA, Eviews, Office Word and Excel.
 - Life experience in China, Sweden and Netherlands
 
-[CV assignment part A] (https://github.com/youwang27/third-repo/tree/gh-pages)
-[CV assignment part B] (https://github.com/youwang27/presentation/tree/gh-pages)
+[CV assignment part A] (http://youwang27.github.io/third-repo/)
+[CV assignment part B] (http://youwang27.github.io/presentation/)
